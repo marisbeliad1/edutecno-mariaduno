@@ -1,0 +1,27 @@
+body {
+    background: #000000;
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;   
+ }
+
+ h1 
+hr{
+    background-color: #00aae4;
+    height: 2px;  
+}
+
+li{
+    list-style-type: none;
+}
+
+.color-fondo{
+    background-color: #00aae4;
+  }
+  
+.row li {
+    background-color:#00aae4;
+}
+
+:root{
+    --github: #ffffff;
+}
