@@ -1,0 +1,96 @@
+body {
+    background: #000000;
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Releway', sans-serif;
+    
+        }
+
+body * {
+margin: 0;
+border: 0;
+padding: 0;
+}
+
+.rectangulo1 {
+    top: 0px;
+    left: 0px;
+    width: 1280px;
+    height: 73px;
+}   
+
+h1 {
+    text-align: center;
+    font: normal normal medium 50px/59px Raleway;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+  }
+  
+h2 {
+    text-align: center;
+    font: normal normal medium 40px/47px Raleway;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.rectangulo2 {
+    top: 800px;
+    left: 0px;
+    width: 1280px;
+    height: 348px;
+}
+
+.texto {
+    text-align: left;
+    font: normal normal 300 16px/19px Raleway;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;   
+}
+
+.iguana0 {
+    top: 73px;
+    left: 0px;
+    width: 1280px;
+    height: 727px;
+}
+.iguana-verde {
+    top: 845px;
+    left: 731px;
+    width: 399px;
+    height: 237px;
+
+}
+.desc-section {
+    background: #1e1a13;
+    color: #ffffff;
+    }
+
+.desc-section ul {
+    list-style-type: none;
+}
+.fotos {
+    width: 30%;
+  }
+  
+.fotos img {
+    width: 75%;
+}
+
+.footer {
+    top: 1835px;
+    left: 0px;
+    width: 1280px;
+    height: 102px;
+  } 
+
+.footer * {
+    background: #1E1A13;
+    text-align: center;
+    font: normal normal 300 20px/24px Raleway;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
