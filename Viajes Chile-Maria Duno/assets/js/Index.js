@@ -1,4 +1,4 @@
-//
+//smoll scroll
 $document.ready (function () {
 
     $('a').clic(function(event) {
@@ -14,6 +14,7 @@ $document.ready (function () {
     });
 });
 
+//Tolltip
 $(function () {
      $('[data-toggle="tooltip"]').tooltip();
 });
