@@ -1,0 +1,21 @@
+.texto-nav {
+    font-family: 'Lobster', cursive;
+}
+
+.carousel-indicators {
+bottom: -50px;
+}
+
+hr{
+    height: 2px;
+}
+.carousel-indicators li{
+height: 10px;
+}
+.suscripcion {
+    text-align: left;
+    background: #ee2737;
+    color: #ffffff;
+    padding: 7.125rem;
+    white-space: nowrap;
+}
