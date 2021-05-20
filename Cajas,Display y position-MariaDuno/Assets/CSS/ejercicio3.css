@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    padding: 0;
+    }
+.bandera {
+    background-color: white;
+    width: 500px;
+    height: 300px;
+    margin: 20px;
+    display: inline-block;
+    border: 2px solid black
+   }
+
+ 
+
+
+/*colores de la bandera de españa*/
+   .band-esp-rojo{
+       background-color: #AD1519;
+       height: 75px;
+   }
+   .band-esp-amarillo{
+    background-color: #FABD00;
+    height: 150px;
+}
+/* Colors de la bandera de dinamarca*/
+.bandera-dinamarca {
+    background-color:#ee2737;
+}
+.lineah{
+ background-color: white;
+ height:20px;
+ width:500px;
+ position: absolute;
+ margin-top:140px;
+}
+.lineav {
+    background-color: white;
+    width: 20px;
+    height: 300px;
+    margin: 0 140px;
+  }
+  /*Colores de la bandera de emirato arabes*/
+  .band-eua-red{
+      background-color: red;
+      height: 300px;
+      width: 100px;
+      position: absolute;
+  }
+  .band-eua-verde{
+      background-color: green;
+      height: 100px;
+      width: 400px;
+      margin: 0 100px;
+  }
+  .band-eua-negro{
+    background-color: black;
+    height: 100px;
+    width: 400px;
+    margin: 100px; 
+  }
+/*bandera japon*/
+ .band-japon{
+     background-color: red;
+     width: 125px;
+     height: 125px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     margin: 90px 180px;
+ }

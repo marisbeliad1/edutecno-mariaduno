@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    }
+
+.navbar {
+background-color: green;
+text-align: justify;
+position: static;
+width: 100%; ;
+}
+    
+.main {
+margin: 5px;
+    }
+.box {
+    border: 0px;
+    height: max-content;
+    text-align: center;
+    box-sizing: border-box;
+    width: 25%;
+    display: inline-block;
+    margin-right: -4px;
+    }
+.box img {
+    max-width: 70%;
+}

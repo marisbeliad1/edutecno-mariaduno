@@ -12,9 +12,8 @@ $document.ready (function () {
         1200
          );
     });
-});
-
-//Tolltip
-$(function () {
-     $('[data-toggle="tooltip"]').tooltip();
+    //Tolltip
+    $(function () {
+        $('[data-toggle="tooltip"]').tooltip();
+    });
 });
