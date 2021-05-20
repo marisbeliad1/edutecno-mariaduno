@@ -1,0 +1,42 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    }
+    .main{
+        margin: 0 auto;
+        width: 80%;
+    }
+header{
+    background-color: black;
+    position: static;
+    width: 100%;
+    height: 20%;
+    text-align: justify;
+    color: white;
+    padding: 20px 0 10px;
+    margin-top: -20px;
+}
+
+.navbar {
+position:absolute;
+background-color: beige;
+text-align: justify;
+width: 15%;
+height:30%;
+color:black;
+}
+
+.texto{
+    position: relative;
+    width: 70%;
+    height:70%;
+    left: 20%;
+}
+.footer {
+    position: relative;
+background-color:grey;
+color: white;
+text-align: center;
+width: 100%;
+padding: 1px 0 10px;
+}
