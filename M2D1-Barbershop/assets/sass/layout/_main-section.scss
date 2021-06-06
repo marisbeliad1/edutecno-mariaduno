@@ -1,0 +1,17 @@
+.main {
+    position: absolute;
+    left: 50%;
+    top: 9.5vh;
+    transform: translateX(-50%);
+    }
+    .main__title {
+    color: $white;
+    text-align: center;
+    }
+    .main__title-emphasis {
+    font-family: $playfair;
+    font-weight: $normal;
+    }
+    .main__title-emphasis--size-xxl {
+    font-size: $xx-large;
+     }
